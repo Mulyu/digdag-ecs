@@ -1,0 +1,6 @@
+.digdag/
+.idea/
+.terraform/
+build/
+.env
+.envrc
